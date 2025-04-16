@@ -1,0 +1,24 @@
+{
+  "id": "tvos-management/index",
+  "title": "Управление устройствами tvOS",
+  "description": "Это раздел «Управление устройствами tvOS». Здесь будет размещена справочная информация.",
+  "source": "@site/docs/tvos-management/index.md",
+  "sourceDirName": "tvos-management",
+  "slug": "/tvos-management/",
+  "permalink": "/docs/tvos-management/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tvos-management/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Управление устройствами Mac",
+    "permalink": "/docs/mac-management/"
+  },
+  "next": {
+    "title": "Управление устройствами Linux",
+    "permalink": "/docs/linux-management/"
+  }
+}

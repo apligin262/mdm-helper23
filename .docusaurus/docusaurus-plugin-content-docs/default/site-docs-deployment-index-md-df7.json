@@ -1,0 +1,24 @@
+{
+  "id": "deployment/index",
+  "title": "Развертывание",
+  "description": "Это раздел «Развертывание». Здесь будет размещена справочная информация.",
+  "source": "@site/docs/deployment/index.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/",
+  "permalink": "/docs/deployment/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/deployment/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Устройства для отслеживания и ограждения",
+    "permalink": "/docs/tracking-devices/"
+  },
+  "next": {
+    "title": "Патчи и обновления",
+    "permalink": "/docs/patches-updates/"
+  }
+}

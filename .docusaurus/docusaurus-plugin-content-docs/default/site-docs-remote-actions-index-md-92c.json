@@ -1,0 +1,24 @@
+{
+  "id": "remote-actions/index",
+  "title": "Удаленные Действия",
+  "description": "Это раздел «Удаленные Действия». Здесь будет размещена справочная информация.",
+  "source": "@site/docs/remote-actions/index.md",
+  "sourceDirName": "remote-actions",
+  "slug": "/remote-actions/",
+  "permalink": "/docs/remote-actions/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/remote-actions/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Инструкции",
+    "permalink": "/docs/instructions/"
+  },
+  "next": {
+    "title": "Управление устройствами iOS",
+    "permalink": "/docs/ios-management/"
+  }
+}

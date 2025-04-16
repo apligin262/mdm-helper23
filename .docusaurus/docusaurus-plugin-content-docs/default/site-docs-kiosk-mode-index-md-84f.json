@@ -1,0 +1,24 @@
+{
+  "id": "kiosk-mode/index",
+  "title": "Блокировка устройств в киоске",
+  "description": "Это раздел «Блокировка устройств в киоске». Здесь будет размещена справочная информация.",
+  "source": "@site/docs/kiosk-mode/index.md",
+  "sourceDirName": "kiosk-mode",
+  "slug": "/kiosk-mode/",
+  "permalink": "/docs/kiosk-mode/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/kiosk-mode/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Развертывание и управление приложениями",
+    "permalink": "/docs/app-deployment/"
+  },
+  "next": {
+    "title": "Развертывание и управление контентом",
+    "permalink": "/docs/content-management/"
+  }
+}

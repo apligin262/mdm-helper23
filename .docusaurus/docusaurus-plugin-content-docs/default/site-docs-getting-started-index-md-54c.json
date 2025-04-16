@@ -1,0 +1,20 @@
+{
+  "id": "getting-started/index",
+  "title": "Начало работы",
+  "description": "Это раздел «Начало работы». Здесь будет размещена справочная информация.",
+  "source": "@site/docs/getting-started/index.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/",
+  "permalink": "/docs/getting-started/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "next": {
+    "title": "Регистрационные Устройства",
+    "permalink": "/docs/enrolled-devices/"
+  }
+}

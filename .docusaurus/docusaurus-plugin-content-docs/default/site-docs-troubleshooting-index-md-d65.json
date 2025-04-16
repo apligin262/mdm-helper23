@@ -1,0 +1,24 @@
+{
+  "id": "troubleshooting/index",
+  "title": "Руководства по устранению неполадок",
+  "description": "Это раздел «Руководства по устранению неполадок». Здесь будет размещена справочная информация.",
+  "source": "@site/docs/troubleshooting/index.md",
+  "sourceDirName": "troubleshooting",
+  "slug": "/troubleshooting/",
+  "permalink": "/docs/troubleshooting/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/troubleshooting/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Отчеты",
+    "permalink": "/docs/reports/"
+  },
+  "next": {
+    "title": "Репозиторий образцов сценариев",
+    "permalink": "/docs/script-repository/"
+  }
+}

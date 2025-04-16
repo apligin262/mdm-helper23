@@ -1,0 +1,24 @@
+{
+  "id": "patches-updates/index",
+  "title": "Патчи и обновления",
+  "description": "Это раздел «Патчи и обновления». Здесь будет размещена справочная информация.",
+  "source": "@site/docs/patches-updates/index.md",
+  "sourceDirName": "patches-updates",
+  "slug": "/patches-updates/",
+  "permalink": "/docs/patches-updates/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/patches-updates/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Развертывание",
+    "permalink": "/docs/deployment/"
+  },
+  "next": {
+    "title": "Конфигурации",
+    "permalink": "/docs/configurations/"
+  }
+}

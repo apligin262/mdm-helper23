@@ -1,0 +1,24 @@
+{
+  "id": "reports/index",
+  "title": "Отчеты",
+  "description": "Это раздел «Отчеты». Здесь будет размещена справочная информация.",
+  "source": "@site/docs/reports/index.md",
+  "sourceDirName": "reports",
+  "slug": "/reports/",
+  "permalink": "/docs/reports/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/reports/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Интеграции Hexnode",
+    "permalink": "/docs/integrations/"
+  },
+  "next": {
+    "title": "Руководства по устранению неполадок",
+    "permalink": "/docs/troubleshooting/"
+  }
+}

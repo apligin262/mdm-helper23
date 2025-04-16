@@ -1,0 +1,24 @@
+{
+  "id": "windows-management/index",
+  "title": "Управление устройствами Windows",
+  "description": "Это раздел «Управление устройствами Windows». Здесь будет размещена справочная информация.",
+  "source": "@site/docs/windows-management/index.md",
+  "sourceDirName": "windows-management",
+  "slug": "/windows-management/",
+  "permalink": "/docs/windows-management/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/windows-management/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Управление устройствами «Android Enterprise»",
+    "permalink": "/docs/android-enterprise/"
+  },
+  "next": {
+    "title": "Управление устройствами Mac",
+    "permalink": "/docs/mac-management/"
+  }
+}

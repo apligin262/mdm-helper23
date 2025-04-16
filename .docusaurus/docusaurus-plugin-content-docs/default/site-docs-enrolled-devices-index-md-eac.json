@@ -1,0 +1,24 @@
+{
+  "id": "enrolled-devices/index",
+  "title": "Регистрационные Устройства",
+  "description": "Это раздел «Регистрационные Устройства». Здесь будет размещена справочная информация.",
+  "source": "@site/docs/enrolled-devices/index.md",
+  "sourceDirName": "enrolled-devices",
+  "slug": "/enrolled-devices/",
+  "permalink": "/docs/enrolled-devices/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/enrolled-devices/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Начало работы",
+    "permalink": "/docs/getting-started/"
+  },
+  "next": {
+    "title": "Инструкции",
+    "permalink": "/docs/instructions/"
+  }
+}

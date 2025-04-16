@@ -1,0 +1,24 @@
+{
+  "id": "ios-management/index",
+  "title": "Управление устройствами iOS",
+  "description": "Это раздел «Управление устройствами iOS». Здесь будет размещена справочная информация.",
+  "source": "@site/docs/ios-management/index.md",
+  "sourceDirName": "ios-management",
+  "slug": "/ios-management/",
+  "permalink": "/docs/ios-management/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ios-management/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Удаленные Действия",
+    "permalink": "/docs/remote-actions/"
+  },
+  "next": {
+    "title": "Управление устройствами Android",
+    "permalink": "/docs/android-management/"
+  }
+}

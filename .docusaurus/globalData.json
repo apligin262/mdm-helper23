@@ -1,0 +1,163 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "getting-started/index",
+          "docs": [
+            {
+              "id": "android-enterprise/index",
+              "path": "/docs/android-enterprise/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "android-management/index",
+              "path": "/docs/android-management/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "announcements/index",
+              "path": "/docs/announcements/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "app-deployment/index",
+              "path": "/docs/app-deployment/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "configurations/index",
+              "path": "/docs/configurations/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "content-management/index",
+              "path": "/docs/content-management/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "deployment/index",
+              "path": "/docs/deployment/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "enrolled-devices/index",
+              "path": "/docs/enrolled-devices/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "faq/index",
+              "path": "/docs/faq/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "getting-started/index",
+              "path": "/docs/getting-started/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "instructions/index",
+              "path": "/docs/instructions/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "integrations/index",
+              "path": "/docs/integrations/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "ios-management/index",
+              "path": "/docs/ios-management/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "kiosk-mode/index",
+              "path": "/docs/kiosk-mode/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "linux-management/index",
+              "path": "/docs/linux-management/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "mac-management/index",
+              "path": "/docs/mac-management/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "patches-updates/index",
+              "path": "/docs/patches-updates/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "profile-repository/index",
+              "path": "/docs/profile-repository/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "remote-actions/index",
+              "path": "/docs/remote-actions/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "reports/index",
+              "path": "/docs/reports/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "script-repository/index",
+              "path": "/docs/script-repository/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "tracking-devices/index",
+              "path": "/docs/tracking-devices/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "troubleshooting/index",
+              "path": "/docs/troubleshooting/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "tvos-management/index",
+              "path": "/docs/tvos-management/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "user-group-management/index",
+              "path": "/docs/user-group-management/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "visionos-management/index",
+              "path": "/docs/visionos-management/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "windows-management/index",
+              "path": "/docs/windows-management/",
+              "sidebar": "sidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "sidebar": {
+              "link": {
+                "path": "/docs/getting-started/",
+                "label": "getting-started/index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

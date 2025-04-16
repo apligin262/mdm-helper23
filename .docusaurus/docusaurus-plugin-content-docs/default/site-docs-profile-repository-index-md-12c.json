@@ -1,0 +1,24 @@
+{
+  "id": "profile-repository/index",
+  "title": "Репозиторий профиля конфигурации",
+  "description": "Это раздел «Репозиторий профиля конфигурации». Здесь будет размещена справочная информация.",
+  "source": "@site/docs/profile-repository/index.md",
+  "sourceDirName": "profile-repository",
+  "slug": "/profile-repository/",
+  "permalink": "/docs/profile-repository/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/profile-repository/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Репозиторий образцов сценариев",
+    "permalink": "/docs/script-repository/"
+  },
+  "next": {
+    "title": "Ответы на вопросы",
+    "permalink": "/docs/faq/"
+  }
+}
