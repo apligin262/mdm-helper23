@@ -6,31 +6,21 @@
 
 import {themes as prismThemes} from 'prism-react-renderer';
 
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'MDM Help',
   tagline: 'Helper MDM',
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
   url: 'https://help.api-mdm.prox2.dex-it.ru',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Dex', // Usually your GitHub org/user name.
-  projectName: 'mdm-helper', // Usually your repo name.
+  organizationName: 'Dex',
+  projectName: 'mdm-helper',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'ru',
     locales: ['ru'],
@@ -43,8 +33,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          routeBasePath: '/',
           editUrl:
             'https://github.com/AkaKeliner/mdm-helper/blob/main/docusaurus.config.js',
         },
@@ -54,11 +43,8 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/AkaKeliner/mdm-helper/blob/main/docusaurus.config.js',
-          // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -73,22 +59,21 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'MDM Help Center',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'MDM Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'sidebar',
+            sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Документация',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Блог', position: 'left'},
           {
             href: 'https://github.com/AkaKeliner/mdm-helper/',
             label: 'GitHub',
@@ -100,36 +85,36 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Документация',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Быстрый старт',
+                to: '/',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Сообщество',
             items: [
               {
                 label: 'Stack Overflow',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
-                label: 'Discordsss',
+                label: 'Discord',
                 href: 'https://discordapp.com/invite/docusaurus',
               },
               {
-                label: 'X',
+                label: 'X (Twitter)',
                 href: 'https://x.com/docusaurus',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Прочее',
             items: [
               {
-                label: 'Blog',
+                label: 'Блог',
                 to: '/blog',
               },
               {
@@ -139,7 +124,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Dex. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
