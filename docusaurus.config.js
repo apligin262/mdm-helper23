@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'MDM Help',
+  title: 'MDM Help Center',
   tagline: 'Helper MDM',
   favicon: 'img/favicon.ico',
 
