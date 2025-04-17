@@ -116,7 +116,7 @@ const config = {
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
-                label: 'Discord',
+                label: 'Discordsss',
                 href: 'https://discordapp.com/invite/docusaurus',
               },
               {
