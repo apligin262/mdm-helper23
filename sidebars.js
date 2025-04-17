@@ -3,7 +3,14 @@ module.exports = {
     {
       type: 'category',
       label: 'Начало работы',
-      items: ['getting-started/index'],
+      items: [
+        'getting-started/index', // Основной файл категории
+        {
+          type: 'category', // Вложенная категория
+          label: '2', // Название подпапки
+          items: ['2/index'], // Файл внутри подпапки
+        },
+      ],
     },
     {
       type: 'category',
