@@ -1,13 +1,12 @@
 module.exports = {
   sidebar: [
-    {
+  {
       type: 'category',
       label: 'Начало работы',
       items: [
         'getting-started/index', // Основной файл категории
         {
           type: 'category', // Вложенная категория
-          collapsible: false,
           label: '2', // Название подпапки
           items: ['2/index'], // Файл внутри подпапки
         },
