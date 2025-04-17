@@ -35,7 +35,7 @@ const config = {
           sidebarPath: './sidebars.js',
           routeBasePath: '/',
           editUrl:
-            'https://github.com/AkaKeliner/mdm-helper/blob/main/docusaurus.config.js',
+            'https://github.com/AkaKeliner/mdm-helper/blob/main',
         },
         blog: {
           showReadingTime: true,
@@ -44,7 +44,7 @@ const config = {
             xslt: true,
           },
           editUrl:
-            'https://github.com/AkaKeliner/mdm-helper/blob/main/docusaurus.config.js',
+            'https://github.com/AkaKeliner/mdm-helper/blob/main',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
